@@ -23,6 +23,7 @@ case $1 in
     EMBED_COLOR=14396169
     STATUS_MESSAGE="Build starting..."
     AVATAR="https://travis-ci.com/images/logos/TravisCI-Mascot-grey.png"
+    ;;
 
   * )
     EMBED_COLOR=0
