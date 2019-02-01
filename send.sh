@@ -19,7 +19,7 @@ case $1 in
     AVATAR="https://travis-ci.com/images/logos/TravisCI-Mascot-red.png"
     ;;
     
-  "build-start )
+  "build-start" )
     EMBED_COLOR=14396169
     STATUS_MESSAGE="Build starting..."
     AVATAR="https://travis-ci.com/images/logos/TravisCI-Mascot-grey.png"
